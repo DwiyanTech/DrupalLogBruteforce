@@ -19,7 +19,7 @@
 | php brute.php (URL) (Wordlist_username) (Wordlist_Password) <br> 
 
 # Note
-| Login Drupal Directory "/user/login" <br>
+| Login Default Drupal  Directory "/user/login" <br>
 | Not Work ? Contact Admin :) 
 | Update ? Wait For Next Information 
 
