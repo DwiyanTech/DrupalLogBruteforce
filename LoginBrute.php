@@ -28,7 +28,7 @@ error_reporting(null);
 
 */
 
-if( !empty($argv[1]) || !empty($argv[2]) || !empty($argv[3])  ){
+if( !empty($argv[1]) && !empty($argv[2]) && !empty($argv[3])  ){
 echo "###########################################\n";
 echo "## DRUPAL BRUTE FORCE BY ICWR-TECH V.1 ###\n";
 echo "## icwr-tech.id | lunatictech.xyz #########\n";
